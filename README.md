@@ -150,7 +150,8 @@ while(player):
 
 ## Output:
 
-![alt text](image.png)
+![Screenshot 2024-10-21 094008](https://github.com/user-attachments/assets/097b3446-ae93-4775-b880-5daa7272e7c8)
+
 
 
 ## Result: 
